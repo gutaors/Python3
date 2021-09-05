@@ -45,7 +45,8 @@ def calcula_digito(cnpj, digito):
     total = 0
     for indice, regressivo in enumerate(regressivos):
         total += int(cnpj[indice]) * regressivo
-
+        # pegou cada algarismo do cnpj, multiplicou pelo algarismo 
+        # correspondente no regressivo e depois somou os resultados
     digito = 11 - (total % 11)
     digito = digito if digito <= 9 else 0
 
