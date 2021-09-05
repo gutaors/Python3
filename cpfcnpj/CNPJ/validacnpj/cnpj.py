@@ -1,3 +1,9 @@
+
+# O que esta bagaça faz?
+# Remove os pontos e barras do cnpj, 
+# verifica se não é uma sequencia de números iguais
+# calcula os dítigos verificadores
+
 import re
 
 REGRESSIVOS = [6, 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2]
@@ -25,9 +31,11 @@ def valida(cnpj):
 
 
 def calcula_digito(cnpj, digito):
+    # se primeiro d
     if digito == 1:
         regressivos = REGRESSIVOS[1:]
         novo_cnpj = cnpj[:-2]
+        # acima o cnpj é ele mesmo sem os dois digitos finais
     elif digito == 2:
         regressivos = REGRESSIVOS
         novo_cnpj = cnpj
@@ -43,7 +51,10 @@ def calcula_digito(cnpj, digito):
 
     return f'{novo_cnpj}{digito}'
 
-
+# eh sequencia valida se o cnpj não é uma sequencia 
+# de algarismos iguais
+# para isto ele pega o primeiro caracter e repete 13 vezes
+# por exemplo 1111111111111
 def eh_sequencia(cnpj):
     sequencia = cnpj[0] * len(cnpj)
 
