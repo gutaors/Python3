@@ -43,6 +43,7 @@ def calcula_digito(cnpj, digito):
         return None
 
     total = 0
+    # enumerate é comando python q pega o regressivos e separa em itens
     for indice, regressivo in enumerate(regressivos):
         total += int(cnpj[indice]) * regressivo
         # pegou cada algarismo do cnpj, multiplicou pelo algarismo 
