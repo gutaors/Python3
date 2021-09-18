@@ -1,3 +1,6 @@
+# MELHOR EXPLICACAO
+# https://www.youtube.com/watch?v=zH_0jUmgpyc
+
 #aula 60
 
 def funcao(arg, arg2):
