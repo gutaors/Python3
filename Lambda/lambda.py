@@ -1,5 +1,6 @@
 # MELHOR EXPLICACAO
 # https://www.youtube.com/watch?v=zH_0jUmgpyc
+# https://realpython.com/python-lambda/
 
 #aula 60
 
