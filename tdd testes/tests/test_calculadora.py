@@ -17,8 +17,9 @@ except:
 # antes de mais nada criei o módulo que vou testar que é calculadora.py
 # importa unittest (vem com o python)
 # cria classe iniciada com a palavra Test e em seguida nome do modulo q vou testar
+# a classe herda de () unittest.TestCase 
 # todos os nomes das defs devem iniciar com test 
-# a classe recebe como parâmetro unittest.TestCase 
+
 
 
 import unittest
