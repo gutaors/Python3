@@ -1,7 +1,3 @@
-# MELHOR EXPLICACAO
-# https://www.youtube.com/watch?v=zH_0jUmgpyc
-# https://realpython.com/python-lambda/
-
 #aula 60
 
 def funcao(arg, arg2):
@@ -12,9 +8,9 @@ var=funcao(2,2)
 #escrevendo a mesma função no formato lambda
 # tambem conhecida como anonima, pois ela não tem nome
 a=lambda x,y: x * y
-
 print(a(2,2))
 
+#então vamos criar uma lista
 lista = [
     ['P1', 13],
     ['P2', 6],
@@ -22,9 +18,11 @@ lista = [
     ['P4', 50],
     ['P5', 8],
 ]
+#se rodarmos o sort ele ordena pela primeira chave
 lista.sort()
 print(lista)
 
+#agora vamos criar uma funcao que permite ordenar por outra chave
 def func(item):
     return item[1]
 
