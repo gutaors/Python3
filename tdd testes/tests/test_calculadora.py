@@ -32,7 +32,8 @@ class TestCalculadora(unittest.TestCase):
 
     def test_soma_5_negativo_e_5_deve_retornar_0(self):
         self.assertEqual(soma(-5, 5), 0)
-
+    
+    # olha como faz pra extrair itens de uma tupla para variáveis separadas
     def test_soma_varias_entradas(self):
         x_y_saidas = (
             (10, 10, 20),
