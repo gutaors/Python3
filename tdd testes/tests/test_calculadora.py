@@ -13,6 +13,14 @@ try:
 except:
     raise
 
+# Como fazer testes unitários unit test
+# antes de mais nada criei o módulo que vou testar que é calculadora.py
+# importa unittest (vem com o python)
+# cria classe iniciada com a palavra Test e em seguida nome do modulo q vou testar
+# todos os nomes das defs devem iniciar com test 
+# a classe recebe como parâmetro unittest.TestCase 
+
+
 import unittest
 from calculadora import soma
 
