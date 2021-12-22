@@ -1,0 +1,1440 @@
+Conteúdo do curso
+Seção 1: Introdução - Preparando meu
+ambiente de desenvolvimento
+4 / 8|1h 25m
+
+1. Linux (Ubuntu): Criando meu ambiente de
+desenvolvimento
+11m
+
+2. Windows: Criando meu ambiente de
+desenvolvimento
+17m
+
+3. Entenda como o curso está estruturado
+16m
+
+4. Dicas sobre o pycharm e o curso
+12m
+
+5. Windows - Não quero/posso usar o Pycharm
+8m
+
+6. Linux/Mac - Não quero/posso usar o Pycharm
+9m
+
+7. Perguntas e Respostas - Como funciona?
+9m
+
+8. Regras para perguntas e respostas
+2m
+Seção 2: Python Básico (Lógica de
+programação)
+17 / 50|9h 3m
+
+9. Sobre lógica
+1m
+
+10. Discord para alunos
+1m
+
+11. Avisos e dicas do curso
+5m
+
+12. Comentários de código em Python
+14m
+
+Teste 1: Perguntas
+
+13. O comando print
+11m
+
+Teste 2: Perguntas
+
+14. Strings (texto) e aspas em Python
+13m
+
+15. Tipos de dados "primitivos"
+25m
+
+16. Operadores Aritméticos
+17m
+
+17. Precedência dos Operadores Aritméticos
+1m
+
+18. Variáveis
+10m
+
+19. Solução do exercício com variáveis
+1m
+
+Teste 3: Perguntas
+
+20. Introdução à formatação de Strings
+7m
+
+21. Desafio prático (teste seu conhecimento até
+aqui)
+3m
+
+22. Desafio prático - Solução
+5m
+
+Teste 4: Perguntas
+
+23. Input: Entrada de dados do usuário
+13m
+
+Teste 5: Perguntas
+
+24. IF, ELIF e ELSE + Booleans
+17m
+
+25. Operadores relacionais + IF/ELIF/ELSE
+18m
+
+Teste 6: Perguntas
+
+26. Operadores lógicos + IF/ELIF/ELSE
+14m
+
+Teste 7: Perguntas
+
+27. len - Quantidade de caracteres
+10m
+
+28. Documentação e funções built-in úteis
+17m
+
+29. Pass e Ellipsis como placeholders
+4m
+
+30. Exercícios propostos
+3m
+
+31. Exercícios propostos - Solução
+15m
+
+32. Formatando valores em Python
+22m
+
+33. Índices e fatiamento de strings em Python
+17m
+
+34. While - estrutura de repetição em Python
+32m
+
+35. While/Else - Repetição com acumuladores
+em Python
+15m
+
+36. Iterando strings com while em Python
+16m
+
+37. For in - Estrutura de repetição em Python
+20m
+
+38. Listas em Python
+51m
+
+39. Tira dúvidas: for, listas, condições e
+concatenações
+21m
+
+40. FOR / ELSE em Python
+15m
+
+41. Split, Join e Enumerate em Python
+25m
+
+42. Enumerate - Tira dúvidas
+20m
+
+43. Desempacotamento de listas em Python
+8m
+
+44. Trocando o valor entre variáveis em Python
+5m
+
+45. Operação ternária em Python
+9m
+
+46. Expressão condicional com operador OR
+8m
+
+47. Desafio de contadores
+2m
+
+48. Desafio de contadores - SOLUÇÃO
+4m
+
+49. Desafio - Valide um CPF
+8m
+
+50. Desafio - Valide um CPF - SOLUÇÃO
+15m
+
+51. Gerando CPFs com Python
+7m
+Seção 3: Python Intermediário
+(Programação Procedural)
+24 / 45|10h 49m
+
+52. Funções (def) em Python - Parte 1
+16m
+
+53. Funções (def) em Python - Parte 2
+22m
+
+54. Exercícios propostos
+5m
+
+55. Exercícios propostos - Solução
+15m
+
+56. Funções (def) em Python - Parte 3
+23m
+
+57. Funções (def) em Python - Parte 4
+13m
+
+58. Exercícios propostos
+4m
+
+59. Exercícios propostos - Solução
+11m
+
+60. Expressões lambda (funções anônimas) em
+Python
+11m
+
+61. Tuplas em Python
+10m
+
+62. Dicionários em Python
+39m
+
+63. Sistema de perguntas e respostas com
+dicionários em Python
+26m
+
+64. Sets em Python (Conjuntos)
+16m
+
+65. Exercício
+15m
+
+66. List Comprehension em Python
+16m
+
+67. Exercícios propostos
+3m
+
+68. Exercícios propostos - Solução
+12m
+
+69. Dictionary Comprehension em Python -
+(Compreensão de dicionários)
+8m
+
+70. Geradores, Iteradores e Iteráveis em Python
+22m
+
+71. Comportamento de geradores e iteradores
+11m
+
+72. Exercício proposto
+7m
+
+73. Exercícios propostos - Solução
+5m
+
+74. Zip e Zip_longest - Unindo iteráveis
+16m
+
+75. Exercícios - somando duas listas
+8m
+
+76. Exercício solucionado - somando listas
+1m
+
+77. Count - Contadores infinitos
+15m
+
+78. Combinations, Permutations e Product -
+Itertools
+7m
+
+79. Groupby - Agrupando valores
+18m
+
+80. Map
+22m
+
+81. Filter
+10m
+
+82. Reduce
+6m
+
+83. Try, Except - Tratando Exceções em Python
+14m
+
+84. Levantando exceções em Python (raise)
+10m
+
+85. Uso de try e except como condicional
+12m
+
+86. Módulos padrão do Python
+18m
+
+87. Como criar módulos em Python
+19m
+
+88. Como criar pacotes e módulos em Python
+16m
+
+89. Criando, lendo, escrevendo e apagando
+arquivos
+26m
+
+90. Caminhos de módulos e pacotes (ponto de
+vista)
+14m
+
+91. Funções decoradoras e decoradores
+22m
+
+92. Problema dos parâmetros mutáveis em
+funções
+10m
+
+93. Exercício - Undo e Redo
+16m
+
+94. Desafio - Valide um CNPJ
+19m
+
+95. Desafio - Valide um CNPJ - SOLUÇÃO
+26m
+
+96. Gerando CNPJs com a solução do desafio
+17m
+Seção 4: Python - Introdução à
+Programação Orientada a Objetos - POO …Seção 4: Python - Introdução à Programação Orientada a Objetos - POO (Classes)
+1 / 32|9h 5m
+
+97. Introdução
+1m
+
+98. Classes - Python Orientado a Objetos
+36m
+
+99. Curiosidades sobre convenções de nomes
+1m
+
+100. Métodos de classes - Python Orientado a
+Objetos
+11m
+
+101. Métodos estáticos - Python Orientado a
+Objetos
+6m
+
+102. @property - Getters e Setters - Python
+Orientado a Objetos
+14m
+
+103. Atributos de Classe - Python Orientado a
+Objetos
+7m
+
+104. Encapsulamento - Python Orientado a
+Objetos
+27m
+
+105. [Reforço] - Getters e Setters - Parte 1
+15m
+
+106. [Reforço] - Getters e Setters - Parte 2
+16m
+
+107. Associação - Python Orientado a Objetos
+16m
+
+108. Agregação - Python Orientado a Objetos
+11m
+
+109. Composição - Python Orientado a Objetos
+15m
+
+110. Herança Simples - Python Orientado a
+Objetos
+11m
+
+111. Sobreposição de membros - Python
+Orientado a Objetos
+16m
+
+112. Herança múltipla - Python Orientado a
+Objetos
+32m
+
+113. Classes Abstratas - Python Orientado a
+Objetos
+27m
+
+114. Polimorfismo de sobreposição - Python
+Orientado a Objetos
+6m
+
+115. Criando Exceções - Python Orientado a
+Objetos
+3m
+
+116. Sobrecarga de operadores - Python
+Orientado a Objetos
+12m
+
+117. Métodos mágicos - Python Orientado a
+Objetos
+24m
+
+118. Context Manager - Criando e Usando
+gerenciadores de contexto
+14m
+
+119. Herança Simples (Tira dúvidas)
+16m
+
+120. Metaclasses
+25m
+
+121. DocStrings - Documentação
+35m
+
+122. Desafio POO
+7m
+
+123. Desafio POO - Solução
+32m
+
+124. PROPOSTA DE PROJETO - CALCULANDO
+REDES IPV4
+19m
+
+125. (SOLUÇÃO) PROPOSTA DE PROJETO -
+CALCULANDO REDES IPV4
+43m
+
+126. Dataclasses
+19m
+
+127. Enum
+10m
+
+128. Implementando um iterator
+17m
+Seção 5: Módulos Python - os, datetime,
+sys, json, csv, selenium, pillow e mais
+0 / 23|7h 11m
+
+129. if __name__ == "__main__"
+7m
+
+130. Datetime - Trabalhando com data e hora em
+Python
+14m
+
+131. Datetime #2 - Datas em português
+10m
+
+132. Último dia do mês em ano bissexto
+1m
+
+133. OS - Percorrendo arquivos e pastas
+30m
+
+134. OS + SHUTIL - Mover, copiar e apagar
+arquivos
+14m
+
+135. OS, SYS, FNMATCH - Convertendo vídeos
+com Python + FFMPEG
+28m
+
+136. JSON - JavaScript Object Notation
+12m
+
+137. CSV - Comma Separated Values
+18m
+
+138. Random - números aleatórios e mais
+15m
+
+139. String - Template
+11m
+
+140. Enviando e-mails com Python
+19m
+
+141. ZIP - Compactando / Descompactando
+arquivos
+9m
+
+142. Sys.argv - Executando arquivos com
+argumentos no sistema
+15m
+
+143. Web Scraping com Python
+16m
+
+144. Selenium - Automatizando tarefas no
+navegador
+42m
+
+145. Subprocess - Executando programas e
+comandos externos
+8m
+
+146. Jupyter Notebook
+15m
+
+147. Threads - Executando processamentos em
+paralelo
+34m
+
+148. PyPDF2 - Unindo e dividindo arquivos PDF
+22m
+
+149. Deque - Trabalhando com LIFO e FIFO
+24m
+
+150. Openpyxl - Planilhas do Excel em Python
+31m
+
+151. Pillow: redimensionando várias imagens
+automaticamente
+38m
+Seção 6: PyQT5 - Interface gráfica no
+Python - GUI para Desktop
+0 / 7|2h 4m
+
+152. Instalação e primeiro contato com PyQT5
+14m
+
+153. Criando uma calculadora com PyQT5
+33m
+
+154. Download QT Designer para Windows
+1m
+
+155. Instalando QT Designer no Windows
+5m
+
+156. Instalando QT Designer no Linux
+3m
+
+157. Integrando janelas do QT Designer com
+PyQT5
+37m
+
+158. Adicionando PyQT5 em código Python
+antigo
+33m
+Seção 7: Bases de dados com Python -
+SQLite, MySQL e MariaDB
+0 / 7|1h 52m
+
+159. SQLite: usando o módulo sqlite3
+26m
+
+160. DB Browser for SQLite - Windows
+8m
+
+161. DB Browser for SQLite - Linux
+6m
+
+162. Python sqlite3 + DB Browser for SQLite
+20m
+
+163. Windows - Xampp + MySQL Workbench
+10m
+
+164. Linux - MariaDB Server + MySQL
+Workbench
+8m
+
+165. CRUD com Pymysql no MySQL e Mariadb
+Server
+34m
+Seção 8: Django no Python - Básico
+0 / 7|2h 6m
+
+166. Django: Olá mundo!
+44m
+
+167. Atualização 07/2021 e avisos
+4m
+
+168. Usando um template HTML em comum
+24m
+
+169. Página inicial
+15m
+
+170. Arquivos estáticos (CSS, JS, IMG...)
+25m
+
+171. Carregando URLs dinamicamente
+6m
+
+172. Incluindo arquivos parciais
+9m
+Seção 9: Django no Python - Projeto
+Agenda
+0 / 21|4h 44m
+
+173. Projeto Agenda: Arquivos
+7m
+
+174. Projeto Agenda: Criando o projeto
+16m
+
+175. Projeto Agenda: Criando os Models
+17m
+
+176. Projeto Agenda: Admin
+20m
+
+177. Projeto Agenda: Exibindo valores nas views
+12m
+
+178. Projeto Agenda: Exibindo um único contato
+13m
+
+179. Levantando erros 404
+9m
+
+180. Usando condicionais
+10m
+
+181. Paginação
+10m
+
+182. Ordenando e filtrando valores
+10m
+
+183. Campo de pesquisa
+26m
+
+184. Instalando o pillow
+1m
+
+185. Campo de imagem
+14m
+
+186. Mensagens com Django Messages
+21m
+
+187. Backup do projeto
+9m
+
+188. Admin em Português do Brasil
+4m
+
+189. Sistema de login - Preparando tudo
+23m
+
+190. Cadastro de usuários
+18m
+
+191. Login, Logout e Dashboard
+15m
+
+192. Verificando usuários logados
+10m
+
+193. Formulários para Models
+19m
+Seção 10: Django com Python - Primeiro
+Deploy (Linux)
+0 / 10|2h 46m
+
+194. Deploy: Criando um servidor no GCP
+19m
+
+195. Assista essa aula apenas se NÃO conseguir
+usar o Google Cloud Platform
+16m
+
+196. Deploy: Preparando o ambiente
+12m
+
+197. Deploy - Linux: Movendo os arquivos para o
+servidor
+9m
+
+198. Deploy - Windows: Movendo os arquivos
+para o servidor
+8m
+
+199. Deploy - Nginx & Gunicorn
+20m
+
+200. Deploy - HTTPS e Segurança
+14m
+
+201. Deploy - Migrando para MySQL / MariaDB
+16m
+
+202. Git e local_settings.py - Editando localmente
+35m
+
+203. Customizando a área Admin
+17m
+Seção 11: Django com Python - Projeto
+Blog
+0 / 15|5h 19m
+
+204. Projeto Blog - Parte 1
+12m
+
+205. Projeto Blog - Parte 2
+48m
+
+206. Atualização Django e Summernote
+1m
+
+207. Projeto Blog - Parte 3
+31m
+
+208. Projeto Blog - Parte 4
+29m
+
+209. Projeto Blog - Parte 5
+28m
+
+210. Projeto Blog - Parte 6
+10m
+
+211. Projeto Blog - Deploy
+36m
+
+212. Criando seus próprios filtros
+14m
+
+213. Select_related - Otimizando as consultas
+relacionais
+11m
+
+214. Adicionando campos do formulário
+manualmente
+16m
+
+215. CBV - Herdando de View ao invés de
+UpdateView
+22m
+
+216. Redimensionando imagens do model
+21m
+
+217. Crispy Forms e Axes
+18m
+
+218. reCAPTCHA: Finalizando o projeto blog
+23m
+Seção 12: Usando o VSCode com Python
+2 / 2|28m
+
+219. Usando o VSCode no Windows
+14m
+
+220. Usando o VSCode no Linux
+14m
+Seção 13: Django com Python - Projeto
+E-commerce
+0 / 25|11h 49m
+
+221. Projeto e-commerce - Apresentação
+14m
+
+222. Criando o projeto e-commerce no VSCode
+40m
+
+223. Projeto e-commerce - Criando os models
+Produto e Variação
+44m
+
+224. Projeto e-commerce - Criando os models
+Pedido e ItemPedido
+22m
+
+225. Projeto e-commerce - Criando o model do
+perfil de usuários
+25m
+
+226. Projeto e-commerce - Slug automático e
+cadastro de produtos
+22m
+
+227. Projeto e-commerce - URLs
+24m
+
+228. Projeto e-commerce - Listando os produtos
+(templates)
+35m
+
+229. Projeto e-commerce - Detalhes do produto
+33m
+
+230. Projeto e-commerce - Adicionar ao carrinho
+(Parte 1)
+25m
+
+231. Projeto e-commerce - Adicionar ao carrinho
+(Parte 2)
+31m
+
+232. Projeto e-commerce: Renderizando o
+carrinho (Parte 1)
+35m
+
+233. Projeto e-commerce: Renderizando o
+carrinho (Parte 2)
+19m
+
+234. Projeto e-commerce - Cadastro de usuários
+(Parte 1)
+54m
+
+235. Projeto e-commerce - Cadastro de usuários
+(Parte 2)
+43m
+
+236. Projeto e-commerce - Cadastro de usuários
+(Parte 3)
+26m
+
+237. Projeto E-commerce - Login e Logout
+33m
+
+238. Projeto e-commerce - Resumo da compra
+30m
+
+239. Projeto e-commerce - Correções de Bugs
+19m
+
+240. Projeto e-commerce - Salvando o pedido
+(Parte 1)
+43m
+
+241. Projeto e-commerce - Salvando o pedido
+(Parte 2)
+28m
+
+242. Projeto e-commerce - Lista e detalhe do
+pedido para o usuário
+22m
+
+243. Projeto e-commerce - Corrigindo títulos
+12m
+
+244. Projeto e-commerce - CPF único
+14m
+
+245. Projeto e-commerce: Busca
+17m
+Seção 14: Testes e introdução ao TDD no
+Python - unittest
+1 / 9|2h 52m
+
+246. Criando o projeto no Vscode
+17m
+
+247. Github da seção
+1m
+
+248. Asserções (Assertions)
+10m
+
+249. Doctests
+14m
+
+250. Unittest #1
+20m
+
+251. Unittest #2 - Com TDD
+30m
+
+252. Unittest #3 - Com TDD
+32m
+
+253. Unittest #4 - Executando e organizando
+todos os testes
+11m
+
+254. Type hints e MyPy
+38m
+Seção 15: Design Patterns (Padrões de
+projeto - GOF) - POO Avançado
+0 / 36|12h 43m
+
+255. Introdução
+1m
+
+256. Padrões de Projeto (Design Patterns) - Parte
+1
+8m
+
+257. Padrões de Projeto (Design Patterns) - Parte
+2
+9m
+
+258. Padrões de Projeto (Design Patterns) - Parte
+3
+1m
+
+259. Princípios SOLID
+17m
+
+260. Repositório da seção
+1m
+
+261. Os Livros e avisos
+3m
+
+262. Os diagramas UML
+14m
+
+263. Simple Factory (Criação)
+30m
+
+264. Factory Method (Criação)
+18m
+
+265. Abstract Factory (Criação)
+35m
+
+266. Singleton #1 (Criação)
+14m
+
+267. Singleton #2 (Criação)
+8m
+
+268. Singleton #3 (Criação)
+13m
+
+269. Monostate - Borg (Criação)
+17m
+
+270. Builder (Criação)
+25m
+
+271. Prototype (Criação)
+18m
+
+272. Strategy (Comportamental)
+21m
+
+273. Observer (Comportamental)
+33m
+
+274. Command (Comportamental)
+48m
+
+275. Template Method (Comportamental)
+32m
+
+276. State (Comportamental)
+50m
+
+277. Chain of responsibility (Comportamental)
+29m
+
+278. Iterator (Comportamental)
+31m
+
+279. Mediator (Comportamental)
+42m
+
+280. Visitor e Interpreter (Comportamental)
+1m
+
+281. Memento (Comportamental)
+27m
+
+282. Adapter (Estrutural)
+20m
+
+283. Façade (Estrutural)
+12m
+
+284. Proxy (Estrutural)
+34m
+
+285. Bridge (Estrutural)
+31m
+
+286. Flyweight (Estrutural)
+34m
+
+287. Composite - Teoria (Estrutural)
+15m
+
+288. Composite - Código (Estrutural)
+21m
+
+289. Decorator - Teoria (Estrutural)
+12m
+
+290. Decorator - Código (Estrutural)
+41m
+Seção 16: Expressões regulares com Python
+- Regex - Módulo re (Bônus gratuito)
+0 / 16|4h 15m
+
+291. Conteúdo gratuito
+1m
+
+292. Introdução
+16m
+
+293. Github da seção
+1m
+
+294. Metacaracteres
+16m
+
+295. Quantificadores
+17m
+
+296. Greedy e non-greedy (lazy)
+10m
+
+297. Grupos e Retrovisores
+31m
+
+298. Começa com, Termina com e negação
+9m
+
+299. Shorthands e Flags importantes
+30m
+
+300. Lookahead e Lookbehind
+18m
+
+301. Validando IPv4
+22m
+
+302. Validando CPF com Negative Lookahead
+16m
+
+303. Validando Telefones
+12m
+
+304. Validando senhas fortes com Positive
+Lookahead
+19m
+
+305. Validando números
+14m
+
+306. Validando E-mails
+25m
+Seção 17: Bases de dados Relacionais com
+Python - SQL usando MySQL
+0 / 47|5h 29m
+
+307. Introdução
+1m
+
+308. Diagramas entidade relacionamento (DER)
+2m
+
+309. Entidades (Tabelas)
+13m
+
+310. Relacionamentos de entidades
+3m
+
+311. Relacionamento de um para um
+(One-to-one)
+6m
+
+312. Relacionamento de um para muitos
+(one-to-many)
+4m
+
+313. Relacionamento de muitos para muitos
+(many-to-many)
+5m
+
+314. Outras maneiras de identificar
+relacionamentos
+4m
+
+315. Instale o Docker e o Docker Compose
+4m
+
+316. Subindo o MySQL via Docker Compose
+8m
+
+317. Instalando o DBeaver
+7m
+
+318. Mais sobre SQL
+3m
+
+319. Criando a tabela users
+19m
+
+320. Criando a tabela roles
+2m
+
+321. Criando a tabela users_roles
+11m
+
+322. Criando a tabela profiles
+6m
+
+323. Colunas com tipo datetime (created_at e
+updated_at)
+10m
+
+324. Entendendo o DBeaver
+7m
+
+325. Repositório para as consultas
+1m
+
+326. SQL INSERT
+17m
+
+327. SELECT de colunas e apelidos (alias)
+8m
+
+328. WHERE para filtrar os registros
+9m
+
+329. Inserindo dados fictícios
+2m
+
+330. SELECT BETWEEN
+6m
+
+331. SELECT IN
+4m
+
+332. SELECT LIKE
+8m
+
+333. SELECT ORDER
+5m
+
+334. SELECT LIMIT e OFFSET
+6m
+
+335. INSERT com SELECT
+9m
+
+336. DELETE
+6m
+
+337. UPDATE
+5m
+
+338. SELECT de mais de uma tabela
+6m
+
+339. INNER JOIN
+9m
+
+340. LEFT JOIN
+2m
+
+341. RIGHT JOIN
+6m
+
+342. RAND e ROUND
+5m
+
+343. INSERT de dados para a tabela roles
+4m
+
+344. INSERT de dados para a tabela users_roles
+12m
+
+345. INSERT IGNORE
+2m
+
+346. SELECT com vários JOINs
+13m
+
+347. UPDATE com JOINs
+6m
+
+348. DELETE com JOINs
+2m
+
+349. GROUP BY
+10m
+
+350. Funções de Agregação - max, min, avg, sum
+e count + GROUP BY
+10m
+
+351. Uma consulta real
+11m
+
+352. Exercícios
+5m
+
+353. Exercícios - Solução
+24m
+Seção 18: HTML5 e CSS3 (Para iniciantes) -
+Bônus
+0 / 46|12h 23m
+
+354. Seção bônus
+1m
+
+355. Introdução à seção
+3m
+
+356. Estrutura do HTML
+24m
+
+357. Estrutura do HTML e Meta ViewPort
+10m
+
+358. Atributos de id e class
+21m
+
+359. Headings: do H1 ao H6
+14m
+
+360. Tags HTML para texto (links, imagens, etc)
+36m
+
+361. Conheça todas as tags HTML
+6m
+
+362. Semântica na estrutura do HTML5
+25m
+
+363. Pensando em HTML e CSS
+35m
+
+364. Introdução ao CSS Box-Model
+34m
+
+365. Listas e Menus com HTML e CSS
+31m
+
+366. Tabelas HTML
+24m
+
+367. Formulários e Inputs HTML - Parte 1
+13m
+
+368. Formulários e Inputs HTML - Parte 2
+22m
+
+369. Formulários e Inputs HTML - Parte 3
+13m
+
+370. Formulários e Inputs HTML - Parte 4
+14m
+
+371. Separando HTML e CSS em arquivos
+diferentes
+14m
+
+372. Quem dá estilo ao HTML é o CSS
+8m
+
+373. Seletores básicos do CSS - Parte 1
+30m
+
+374. Seletores básicos do CSS - Parte 2
+11m
+
+375. Seletores de atributos do CSS
+6m
+
+376. Pseudo-classes
+18m
+
+377. Pseudo-classe :not()
+3m
+
+378. Pseudo-classe :nth-child()
+7m
+
+379. Pseudo-elements
+10m
+
+380. Especificidade CSS
+17m
+
+381. Herança e as propriedades que são
+passadas para elementos filhos
+7m
+
+382. Propriedade específicas do Box-Model
+(largura, altura, padding, border e margin)
+27m
+
+383. Float e Display (Block, Inline-Block e Inline)
+20m
+
+384. Cores HTML
+12m
+
+385. Unidades de medidas no CSS (px, rem, em,
+vw, vh, %)
+29m
+
+386. Propriedades para textos
+10m
+
+387. Posicionamento - Position
+30m
+
+388. Media queries e breakpoints
+16m
+
+389. Uma breve junção de tudo aprendido até
+aqui
+20m
+
+390. Border-radius (elementos redondos ou
+curvados)
+4m
+
+391. Box-shadow (sombra em elementos)
+6m
+
+392. Flexbox - parte 1
+21m
+
+393. Flexbox - Parte 2
+5m
+
+394. Flexbox - Parte 3
+20m
+
+395. Flexbox - Parte 4
+8m
+
+396. CSS Grid - Parte 1
+23m
+
+397. CSS Grid - Parte 2
+8m
+
+398. Espaçamento entre linhas e colunas - GAP
+12m
+
+399. Grid template areas
+14m
+Seção 19: Landing Page com HTML5 e CSS3
+(Bônus)
+0 / 16|4h 6m
+
+400. Seção bônus
+1m
+
+401. Landing Page - Estrutura
+27m
+
+402. Links
+1m
+
+403. Landing Page - Menu
+27m
+
+404. Landing Page - Correções e separação do
+CSS
+10m
+
+405. Landing Page - Seção Intro
+26m
+
+406. Landing Page - Seção Top 3
+8m
+
+407. Landing page - Seção grid
+21m
+
+408. Landing Page - Correções
+4m
+
+409. Landing Page - Galeria
+13m
+
+410. Landing Page - Tabela de preços
+17m
+
+411. Landing Page - Form de contato e footer
+36m
+
+412. Landing Page - Media Queries
+8m
+
+413. Menu mobile e back to top
+23m
+
+414. Deploy da landing page na Netlify
+8m
+
+415. Emmet Abbreviation - Dicas de
+produtividade no VSCode
+17m
+Seção 20: #EXTRA - Comandos Linux/Unix
+mais usados - Aprenda a navegar no term…Seção 20: #EXTRA - Comandos Linux/Unix mais usados - Aprenda a navegar no terminal (BÔNUS)
+0 / 9|1h 31m
+
+416. Sobre a seção
+1m
+
+417. Introdução e o comando sudo (substitute
+user do)
+5m
+
+418. Arquivo de referência
+1m
+
+419. Comandos pwd, ls e mais
+12m
+
+420. Navegação, caminhos absolutos e relativos,
+pwd, ls, cd e outros comandos Unix
+25m
+
+421. Manipulando diretórios e arquivos com cp,
+mv, mkdir, rm, touch, nano e mais
+21m
+
+422. Operadores e símbolos úteis para executar
+comandos múltiplos no Linux/Unix
+12m
+
+423. Background e Foreground com jobs, fg, bg
+e kill
+10m
+
+424. Outros comandos úteis, como nano, file,
+history, pkill, whoami, hostname e uname
+7m
+Seção 21: Notas finais
+0 / 2|2m
+
+425. Parabéns para quem chegou até aqui
+1m
+
+426. Sobre emissão do seu certificado
+2m
