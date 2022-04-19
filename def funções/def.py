@@ -6,6 +6,7 @@ def saudacao(msg='olá', nome='usuário'):
     return f'{msg} {nome}'
 
 
+
 variavel = saudacao()
 print(variavel)
 
@@ -22,8 +23,8 @@ variavel = funcao('valor que eu quero')
 
 if variavel:
     print(variavel)
-else
-print('nenhum valor')
+else:
+    print('nenhum valor')
 
 
 def divisao(n1, n2):
@@ -36,7 +37,7 @@ divide = divisao(8, 4)
 
 if divide:
     print(divide)
-else
+else:
     print("conta inválida")
 
 
