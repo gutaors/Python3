@@ -243,11 +243,27 @@ print(d1)
 d1 = {x.upper(): y.upper() for x,y in enumerate(range(5))}
 print(d1)
 
-d1 = {x.upper(): y.upper() for x,y in enumerate(range(5))}
-print(d1)
-
 d1 = {x for x in range(5)}
 print(d1, type(d1)) # set comprehensions ou compreensoes de conjuntos
 
 d1 = {f'chave_{x}':x**2 for x in range(5)}
 print(d1, type(d1))
+
+# Exercício de if
+idade = 16
+
+if idade > 18:
+    print('maior de idade')
+else:
+    print('menor de idade')
+
+
+
+def func(*args, **kwargs):
+    print(args)
+
+lista = [1, 2, 3, 4, 5]
+lista2 = [10, 20, 30]
+func(lista, lista2)
+# para desempacotar bote *
+func(*lista, *lista2)
